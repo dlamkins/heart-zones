@@ -1,0 +1,13 @@
+<OverlayData><POIs><!-- Harathi Hinterlands -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\203.trl" /><!-- Cause chaos among the centaurs. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\201.trl" /><!-- Help the Seraph disrupt bandit activity. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\200.trl" /><!-- Protect Seraph's Landing. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\202.trl" /><!-- Help the Seraph at Nightguard Beach. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\207.trl" /><!-- Assist the skritt in Arcallion Digs. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\205.trl" /><!-- Help Broil Cane disrupt centaurs. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\206.trl" /><!-- Train with the Company. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\204.trl" /><!-- Help Ket investigate the Ruins of Demetra. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\208.trl" /><!-- Attack the centaurs. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\209.trl" /><!-- Help Forward Scout Luke disrupt centaur logistics. -->
+<trail type="bounds.task.trail" mapId="17" trailData="trails\210.trl" /><!-- Help Forward Scout Greta cause chaos in the Modniir homeland. -->
+</POIs></OverlayData>

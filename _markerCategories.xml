@@ -1,0 +1,9 @@
+<OverlayData>
+	<MarkerCategory name="bounds" DisplayName="Bounds" ingamevisibility="0">
+		<MarkerCategory name="task" DisplayName="Hearts">
+			<MarkerCategory name="trail" DisplayName="Heart Boundaries" tint="#1DBBF5">
+				
+			</MarkerCategory>
+		</MarkerCategory>
+	</MarkerCategory>
+</OverlayData>

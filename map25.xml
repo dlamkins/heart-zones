@@ -1,0 +1,15 @@
+<OverlayData><POIs><!-- Iron Marches -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\153.trl" /><!-- Aid the Scorch Warband with their assault on the Flame Legion. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\150.trl" /><!-- Aid Centurion Truthbringer in Echoslab Arches. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\151.trl" /><!-- Aid Magister Razermane with the preservation of the Old Piken Ruins. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\152.trl" /><!-- Aid the Allied Legions as they march on the Flame Legion's territory. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\154.trl" /><!-- Help Braxa Scalehunter tend to the devourer nests. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\148.trl" /><!-- Help Warden Scourgejaw run the prison quarry. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\149.trl" /><!-- Help the Sleekfur Warband defend the road at Soldier Mesa. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\145.trl" /><!-- Fight life-stealing minions in Hellion Forest. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\146.trl" /><!-- Join the Iron Legion in tearing down the Ascalonian wall. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\147.trl" /><!-- Help Kennelmaster Warsnout track the Separatists. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\142.trl" /><!-- Fight the Branded in Lake Desolann with the Sentinels. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\143.trl" /><!-- Assist the Sentinels patrolling Crystalwept Groves. -->
+<trail type="bounds.task.trail" mapId="25" trailData="trails\144.trl" /><!-- Help the ogres remove the Branded from their land. -->
+</POIs></OverlayData>

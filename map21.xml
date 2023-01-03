@@ -1,0 +1,15 @@
+<OverlayData><POIs><!-- Fields of Ruin -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\155.trl" /><!-- Help pacify Tyler's Bivouac for settlers. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\156.trl" /><!-- Hold back the insurrectionists. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\165.trl" /><!-- Help Rosko's ranchers protect the village. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\160.trl" /><!-- Help the Iron Legion disrupt Renegade operations. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\166.trl" /><!-- Help the Vanguard stall the ogre advance. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\167.trl" /><!-- Harass the ogres of Foulbear Kraal. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\157.trl" /><!-- Help the people of Ebonhawke. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\158.trl" /><!-- Help Commander Varalyn and the Ebon Vanguard. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\159.trl" /><!-- Help Foreman Boslo care for Blackwing Excavation. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\161.trl" /><!-- Assist the charr delegation. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\162.trl" /><!-- Support the human delegation. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\163.trl" /><!-- Contain the growth of the Dragonbrand. -->
+<trail type="bounds.task.trail" mapId="21" trailData="trails\164.trl" /><!-- Aid the researchers in their study of the Brand. -->
+</POIs></OverlayData>
