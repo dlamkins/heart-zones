@@ -1,13 +1,13 @@
 <OverlayData><POIs><!-- Gendarran Fields -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\229.trl" /><!-- Help First Haven's residents deal with the undead. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\231.trl" /><!-- Rescue fallen Seraph in the Bloodfields. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\232.trl" /><!-- Help Bronson disrupt centaur troops. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\239.trl" /><!-- Support the troops stationed at Ascalon Settlement. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\244.trl" /><!-- Help Mei Shadowwalker reclaim the Wiley pirates' stolen treasure. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\234.trl" /><!-- Get back at the pirates for Joukje. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\245.trl" /><!-- Maintain security around Almuten Mansion. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\236.trl" /><!-- Help Milton Book and local farmers with their pirate and pest problems. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\243.trl" /><!-- Help Johan with his training duties at Vollym's battle pit. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\241.trl" /><!-- Help Lionguard Rhyn drive the dredge away from Junction Haven. -->
-<trail type="bounds.task.trail" mapId="24" trailData="trails\242.trl" /><!-- Assist the Lionguard and protect Junction Haven. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/229.trl" /><!-- Help First Haven's residents deal with the undead. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/231.trl" /><!-- Rescue fallen Seraph in the Bloodfields. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/232.trl" /><!-- Help Bronson disrupt centaur troops. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/239.trl" /><!-- Support the troops stationed at Ascalon Settlement. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/244.trl" /><!-- Help Mei Shadowwalker reclaim the Wiley pirates' stolen treasure. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/234.trl" /><!-- Get back at the pirates for Joukje. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/245.trl" /><!-- Maintain security around Almuten Mansion. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/236.trl" /><!-- Help Milton Book and local farmers with their pirate and pest problems. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/243.trl" /><!-- Help Johan with his training duties at Vollym's battle pit. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/241.trl" /><!-- Help Lionguard Rhyn drive the dredge away from Junction Haven. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="24" trailData="Data/Trails/242.trl" /><!-- Assist the Lionguard and protect Junction Haven. -->
 </POIs></OverlayData>

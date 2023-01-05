@@ -1,15 +1,15 @@
 <OverlayData><POIs><!-- Bloodtide Coast -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\192.trl" /><!-- Help Arm the Quaggans -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\194.trl" /><!-- Fight the Mysterious Quaggan Affliction -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\193.trl" /><!-- Help Shore up Hylek Defenses -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\197.trl" /><!-- Help the Vigil clear out the abandoned caves of Mole's Head -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\198.trl" /><!-- Assist Crusader Aisling of the Vigil recover lost skritt territory -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\187.trl" /><!-- Help the Priory put ghost pirates to rest. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\188.trl" /><!-- Help the Lionguard keep drakes at bay. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\195.trl" /><!-- Disrupt experiments at Aquanarium Hydropost. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\196.trl" /><!-- Teach quaggans how to raise crabs. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\199.trl" /><!-- Help Cesseilia defend and research the oasis. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\190.trl" /><!-- Help subvert the Bloody Buccaneers. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\191.trl" /><!-- Help maintain order in Moriarity's Hold. -->
-<trail type="bounds.task.trail" mapId="73" trailData="trails\189.trl" /><!-- Help spy on the Crafty Corsairs. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/192.trl" /><!-- Help Arm the Quaggans -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/194.trl" /><!-- Fight the Mysterious Quaggan Affliction -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/193.trl" /><!-- Help Shore up Hylek Defenses -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/197.trl" /><!-- Help the Vigil clear out the abandoned caves of Mole's Head -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/198.trl" /><!-- Assist Crusader Aisling of the Vigil recover lost skritt territory -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/187.trl" /><!-- Help the Priory put ghost pirates to rest. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/188.trl" /><!-- Help the Lionguard keep drakes at bay. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/195.trl" /><!-- Disrupt experiments at Aquanarium Hydropost. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/196.trl" /><!-- Teach quaggans how to raise crabs. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/199.trl" /><!-- Help Cesseilia defend and research the oasis. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/190.trl" /><!-- Help subvert the Bloody Buccaneers. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/191.trl" /><!-- Help maintain order in Moriarity's Hold. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="73" trailData="Data/Trails/189.trl" /><!-- Help spy on the Crafty Corsairs. -->
 </POIs></OverlayData>

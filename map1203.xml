@@ -1,7 +1,7 @@
 <OverlayData><POIs><!-- Siren's Landing -->
-<trail type="bounds.task.trail" mapId="1203" trailData="trails\384.trl" /><!-- Reclaim Melandru's reliquary. -->
-<trail type="bounds.task.trail" mapId="1203" trailData="trails\385.trl" /><!-- Reclaim Balthazar's reliquary. -->
-<trail type="bounds.task.trail" mapId="1203" trailData="trails\383.trl" /><!-- Reclaim Dwayna's reliquary. -->
-<trail type="bounds.task.trail" mapId="1203" trailData="trails\382.trl" /><!-- Reclaim Grenth's reliquary. -->
-<trail type="bounds.task.trail" mapId="1203" trailData="trails\386.trl" /><!-- Reclaim Lyssa's reliquary. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1203" trailData="Data/Trails/384.trl" /><!-- Reclaim Melandru's reliquary. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1203" trailData="Data/Trails/385.trl" /><!-- Reclaim Balthazar's reliquary. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1203" trailData="Data/Trails/383.trl" /><!-- Reclaim Dwayna's reliquary. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1203" trailData="Data/Trails/382.trl" /><!-- Reclaim Grenth's reliquary. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1203" trailData="Data/Trails/386.trl" /><!-- Reclaim Lyssa's reliquary. -->
 </POIs></OverlayData>

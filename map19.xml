@@ -1,20 +1,20 @@
 <OverlayData><POIs><!-- Plains of Ashford -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\108.trl" /><!-- Help Mei Hawkslayer disrupt separatist activity. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\109.trl" /><!-- Assist Sesto Headsplitter with his work. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\111.trl" /><!-- Help Androchus thin out ogres. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\106.trl" /><!-- Help Gavros Spiritfoe thin out ghosts. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\348.trl" /><!-- Help Tolona Ironrustler with her farm. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\98.trl" /><!-- Help Crucibis Forgeweld run the armory. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\100.trl" /><!-- Help Strum Bassclash secure Lake Feritas. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\101.trl" /><!-- Help Scar Stripeclaw organize the wrecking yard. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\102.trl" /><!-- Help Latera Painstorm fight the Flame Legion. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\347.trl" /><!-- Rid the training area of pests. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\103.trl" /><!-- Defend the Iron Legion fort from Flame Legion. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\104.trl" /><!-- Help the Blood Legion thin out nuisances. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\107.trl" /><!-- Help Paenula train troops. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\110.trl" /><!-- Help Researcher Irkz study skale poison. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\112.trl" /><!-- Help Ghyrtratus Fiendmauler retake Ascalon City. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\105.trl" /><!-- Help Sagum Relicseeker with his research. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\96.trl" /><!-- Help Bryllana Deepmind thin out ghosts. -->
-<trail type="bounds.task.trail" mapId="19" trailData="trails\97.trl" /><!-- Help Kyra Sharptracker thin out ghosts. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/108.trl" /><!-- Help Mei Hawkslayer disrupt separatist activity. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/109.trl" /><!-- Assist Sesto Headsplitter with his work. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/111.trl" /><!-- Help Androchus thin out ogres. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/106.trl" /><!-- Help Gavros Spiritfoe thin out ghosts. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/348.trl" /><!-- Help Tolona Ironrustler with her farm. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/98.trl" /><!-- Help Crucibis Forgeweld run the armory. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/100.trl" /><!-- Help Strum Bassclash secure Lake Feritas. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/101.trl" /><!-- Help Scar Stripeclaw organize the wrecking yard. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/102.trl" /><!-- Help Latera Painstorm fight the Flame Legion. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/347.trl" /><!-- Rid the training area of pests. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/103.trl" /><!-- Defend the Iron Legion fort from Flame Legion. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/104.trl" /><!-- Help the Blood Legion thin out nuisances. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/107.trl" /><!-- Help Paenula train troops. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/110.trl" /><!-- Help Researcher Irkz study skale poison. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/112.trl" /><!-- Help Ghyrtratus Fiendmauler retake Ascalon City. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/105.trl" /><!-- Help Sagum Relicseeker with his research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/96.trl" /><!-- Help Bryllana Deepmind thin out ghosts. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="19" trailData="Data/Trails/97.trl" /><!-- Help Kyra Sharptracker thin out ghosts. -->
 </POIs></OverlayData>
