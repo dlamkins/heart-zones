@@ -8,7 +8,7 @@
 <trail type="bounds.task.trail" mapId="23" trailData="trails\256.trl" /><!-- Help Sergeant Rane. -->
 <trail type="bounds.task.trail" mapId="23" trailData="trails\257.trl" /><!-- Aid Fort Salma. -->
 <trail type="bounds.task.trail" mapId="23" trailData="trails\259.trl" /><!-- Assist Sangdo Swiftwing. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\248.trl" /><!-- Help Engineer Gilli. -->
+<!-- <trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="Data/Trails/248.trl" /> Help Engineer Gilli. -->
 <trail type="bounds.task.trail" mapId="23" trailData="trails\249.trl" /><!-- Help Guard Barnaby. -->
 <trail type="bounds.task.trail" mapId="23" trailData="trails\252.trl" /><!-- Help Matlal collect truffles for her starving tribe. -->
 <trail type="bounds.task.trail" mapId="23" trailData="trails\253.trl" /><!-- Help Doolsileep protect Moogooloo Village. -->
