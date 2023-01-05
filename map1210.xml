@@ -1,6 +1,0 @@
-<OverlayData><POIs><!-- Crystal Oasis -->
-<trail type="bounds.task.trail" mapId="1210" trailData="trails\406.trl" /><!-- Help Aksim care for and train raptors. -->
-<trail type="bounds.task.trail" mapId="1210" trailData="trails\413.trl" /><!-- Aid the Temple of Kormir. -->
-<!-- <trail type="exploration.mapcomp.heartbounds" mapId="1210" trailData="Data/Trails/411.trl" /> Aid the villagers of Zephyr's Trace. -->
-<trail type="bounds.task.trail" mapId="1210" trailData="trails\387.trl" /><!-- Give aid to the refugees at Marifa Camp. -->
-</POIs></OverlayData>
