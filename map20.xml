@@ -1,17 +1,17 @@
 <OverlayData><POIs><!-- Blazeridge Steppes -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\117.trl" /><!-- Help Sentinel Faithspotter deal with skritt. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\116.trl" /><!-- Assist Sentinel forces against dragonspawn. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\126.trl" /><!-- Join the Ash Legion of Tawny Ridge in stealth operations. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\127.trl" /><!-- Help Jahr Duskrend disrupt Separatist activities. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\122.trl" /><!-- Help the Iron Legion protect Steeleye Span from Branded creatures. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\113.trl" /><!-- Help Sentinel Liharn disrupt the Inquest. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\123.trl" /><!-- Help the Ash Legion take out ogres. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\125.trl" /><!-- Help Sentinels instigate fights between ghosts and the Branded. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\118.trl" /><!-- Help Wode with harpy research. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\119.trl" /><!-- Help the peaceful ogres of Degun Shun. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\120.trl" /><!-- Aid Ferrusatos Village's fishing operation and help them hunt down Separatists. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\121.trl" /><!-- Aid Legion and Ebon Vanguard soldiers against ogres. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\124.trl" /><!-- Help Torruh Sweptweave disrupt Separatist activities. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\114.trl" /><!-- Help Scholar Olenn trick the grawl around the Tail of the Star God. -->
-<trail type="bounds.task.trail" mapId="20" trailData="trails\115.trl" /><!-- Aid Historian Jinell's research at the Wreckage of Serenity. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\117.trl" /><!-- Help Sentinel Faithspotter deal with skritt. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\116.trl" /><!-- Assist Sentinel forces against dragonspawn. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\126.trl" /><!-- Join the Ash Legion of Tawny Ridge in stealth operations. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\127.trl" /><!-- Help Jahr Duskrend disrupt Separatist activities. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\122.trl" /><!-- Help the Iron Legion protect Steeleye Span from Branded creatures. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\113.trl" /><!-- Help Sentinel Liharn disrupt the Inquest. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\123.trl" /><!-- Help the Ash Legion take out ogres. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\125.trl" /><!-- Help Sentinels instigate fights between ghosts and the Branded. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\118.trl" /><!-- Help Wode with harpy research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\119.trl" /><!-- Help the peaceful ogres of Degun Shun. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\120.trl" /><!-- Aid Ferrusatos Village's fishing operation and help them hunt down Separatists. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\121.trl" /><!-- Aid Legion and Ebon Vanguard soldiers against ogres. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\124.trl" /><!-- Help Torruh Sweptweave disrupt Separatist activities. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\114.trl" /><!-- Help Scholar Olenn trick the grawl around the Tail of the Star God. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="20" trailData="trails\115.trl" /><!-- Aid Historian Jinell's research at the Wreckage of Serenity. -->
 </POIs></OverlayData>

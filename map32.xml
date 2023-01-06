@@ -1,17 +1,17 @@
 <OverlayData><POIs><!-- Diessa Plateau -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\182.trl" /><!-- Help the Blood Legion combat ghost siege weapons. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\173.trl" /><!-- Help Rak Deathmane maintain Stonefall Estate. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\174.trl" /><!-- Assist Stout Darkmind -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\170.trl" /><!-- Assist Lakor Grizzlemouth in keeping Meatoberfest running smoothly. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\171.trl" /><!-- Assist the Iron Legion -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\172.trl" /><!-- Assist the Quarry Workers -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\179.trl" /><!-- Help Kastaz Strongpaw maintain his garden. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\180.trl" /><!-- Help the Ash Legion take out Separatists. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\181.trl" /><!-- Help Charradis Estate Ranchers attend to cattle -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\177.trl" /><!-- Assist Bloodsaw Mill workers -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\178.trl" /><!-- Assist the Ash Legion -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\175.trl" /><!-- Protect Redreave Mill from Separatists. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\176.trl" /><!-- Help Raintimber Mill -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\168.trl" /><!-- Assist the Iron Legion fighting ghosts. -->
-<trail type="bounds.task.trail" mapId="32" trailData="trails\169.trl" /><!-- Assist the Blood Legion -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\182.trl" /><!-- Help the Blood Legion combat ghost siege weapons. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\173.trl" /><!-- Help Rak Deathmane maintain Stonefall Estate. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\174.trl" /><!-- Assist Stout Darkmind -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\170.trl" /><!-- Assist Lakor Grizzlemouth in keeping Meatoberfest running smoothly. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\171.trl" /><!-- Assist the Iron Legion -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\172.trl" /><!-- Assist the Quarry Workers -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\179.trl" /><!-- Help Kastaz Strongpaw maintain his garden. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\180.trl" /><!-- Help the Ash Legion take out Separatists. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\181.trl" /><!-- Help Charradis Estate Ranchers attend to cattle -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\177.trl" /><!-- Assist Bloodsaw Mill workers -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\178.trl" /><!-- Assist the Ash Legion -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\175.trl" /><!-- Protect Redreave Mill from Separatists. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\176.trl" /><!-- Help Raintimber Mill -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\168.trl" /><!-- Assist the Iron Legion fighting ghosts. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="32" trailData="trails\169.trl" /><!-- Assist the Blood Legion -->
 </POIs></OverlayData>

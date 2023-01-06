@@ -1,19 +1,18 @@
 <OverlayData><POIs><!-- Queensdale -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\215.trl" /><!-- Help Diah tend her farm. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\216.trl" /><!-- Help Fisher Travis maintain the river. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\218.trl" /><!-- Help Foreman Flannum improve dam safety. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\219.trl" /><!-- Assist Farmer Eda with her orchard. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\220.trl" /><!-- Help Cassie around the moa ranch. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\226.trl" /><!-- Assist Laborer Cardy and Ojon's lumbermill. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\227.trl" /><!-- Assist Hunter Block and the hunting lodge. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\228.trl" /><!-- Assist Fisherman Will and the fishermen of Beetletun. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\224.trl" /><!-- Help Historian Garrod investigate Godslost Swamp. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\221.trl" /><!-- Protect Beetletun farmers from Tamini centaurs. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\222.trl" /><!-- Help the citizens of Beetletun maintain their town. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\225.trl" /><!-- Keep the monastery operational. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\213.trl" /><!-- Assist the Seraph at Shaemoor Garrison. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\214.trl" /><!-- Help Lexi Price protect the trade route. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\223.trl" /><!-- Unite the ettins. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\211.trl" /><!-- Help the Seraph protect Claypool from centaurs. -->
-<trail type="bounds.task.trail" mapId="15" trailData="trails\212.trl" /><!-- Train with the militia. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\215.trl" /><!-- Help Diah tend her farm. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\216.trl" /><!-- Help Fisher Travis maintain the river. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\218.trl" /><!-- Help Foreman Flannum improve dam safety. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\220.trl" /><!-- Help Cassie around the moa ranch. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\226.trl" /><!-- Assist Laborer Cardy and Ojon's lumbermill. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\227.trl" /><!-- Assist Hunter Block and the hunting lodge. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\228.trl" /><!-- Assist Fisherman Will and the fishermen of Beetletun. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\224.trl" /><!-- Help Historian Garrod investigate Godslost Swamp. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\221.trl" /><!-- Protect Beetletun farmers from Tamini centaurs. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\222.trl" /><!-- Help the citizens of Beetletun maintain their town. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\225.trl" /><!-- Keep the monastery operational. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\213.trl" /><!-- Assist the Seraph at Shaemoor Garrison. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\214.trl" /><!-- Help Lexi Price protect the trade route. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\223.trl" /><!-- Unite the ettins. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\211.trl" /><!-- Help the Seraph protect Claypool from centaurs. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="15" trailData="trails\212.trl" /><!-- Train with the militia. -->
 </POIs></OverlayData>

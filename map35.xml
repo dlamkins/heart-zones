@@ -1,18 +1,18 @@
 <OverlayData><POIs><!-- Metrica Province -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\330.trl" /><!-- Help Peacemaker Owta disrupt the Inquest complex. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\332.trl" /><!-- Help the C.L.E.A.N. krewe. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\319.trl" /><!-- Support Doola's golemancing research. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\333.trl" /><!-- Assist Professor Gahf in teaching his young progeny. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\320.trl" /><!-- Assist the Opticalium with lightning research. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\334.trl" /><!-- Assist Researcher Kaii with Incomp's scrap heap. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\322.trl" /><!-- Assist PR&T Esoterics with ooze research. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\321.trl" /><!-- Help Blopp stop the Inquest from using hylek poison to drive lake creatures crazy. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\327.trl" /><!-- Help the Lionguard keep the Cuatl hylek in check. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\328.trl" /><!-- Help the Michotl tribe. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\325.trl" /><!-- Help Hrouda maintain the ecosystem in spite of Dr. Bleent's research. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\326.trl" /><!-- Assist Parnna's research into the ancient transfer chamber. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\323.trl" /><!-- Help Shoon's salvage krewe deal with Inquest interference. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\324.trl" /><!-- Help Brill Alliance study the skritt. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\331.trl" /><!-- Assist the Chaos krewe. -->
-<trail type="bounds.task.trail" mapId="35" trailData="trails\329.trl" /><!-- Help the Luminates plant krewe maintain the power grid. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\330.trl" /><!-- Help Peacemaker Owta disrupt the Inquest complex. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\332.trl" /><!-- Help the C.L.E.A.N. krewe. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\319.trl" /><!-- Support Doola's golemancing research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\333.trl" /><!-- Assist Professor Gahf in teaching his young progeny. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\320.trl" /><!-- Assist the Opticalium with lightning research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\334.trl" /><!-- Assist Researcher Kaii with Incomp's scrap heap. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\322.trl" /><!-- Assist PR&T Esoterics with ooze research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\321.trl" /><!-- Help Blopp stop the Inquest from using hylek poison to drive lake creatures crazy. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\327.trl" /><!-- Help the Lionguard keep the Cuatl hylek in check. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\328.trl" /><!-- Help the Michotl tribe. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\325.trl" /><!-- Help Hrouda maintain the ecosystem in spite of Dr. Bleent's research. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\326.trl" /><!-- Assist Parnna's research into the ancient transfer chamber. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\323.trl" /><!-- Help Shoon's salvage krewe deal with Inquest interference. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\324.trl" /><!-- Help Brill Alliance study the skritt. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\331.trl" /><!-- Assist the Chaos krewe. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="35" trailData="trails\329.trl" /><!-- Help the Luminates plant krewe maintain the power grid. -->
 </POIs></OverlayData>

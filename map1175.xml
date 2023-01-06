@@ -1,7 +1,6 @@
 <OverlayData><POIs><!-- Ember Bay -->
-<trail type="bounds.task.trail" mapId="1175" trailData="trails\364.trl" /><!-- Win the favor of the circus -->
-<trail type="bounds.task.trail" mapId="1175" trailData="trails\366.trl" /><!-- Assist Scientist Vratt -->
-<trail type="bounds.task.trail" mapId="1175" trailData="trails\367.trl" /><!-- Help the skritt encampment. -->
-<trail type="bounds.task.trail" mapId="1175" trailData="trails\363.trl" /><!-- Investigate the mursaat fortress -->
-<trail type="bounds.task.trail" mapId="1175" trailData="trails\365.trl" /><!-- Assist the asuran researchers. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1175" trailData="trails\364.trl" /><!-- Win the favor of the circus -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1175" trailData="trails\367.trl" /><!-- Help the skritt encampment. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1175" trailData="trails\363.trl" /><!-- Investigate the mursaat fortress -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1175" trailData="trails\365.trl" /><!-- Assist the asuran researchers. -->
 </POIs></OverlayData>

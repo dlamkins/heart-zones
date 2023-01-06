@@ -1,13 +1,13 @@
 <OverlayData><POIs><!-- Timberline Falls -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\73.trl" /><!-- Help Ichtaca. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\74.trl" /><!-- Help the endangered quaggans. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\78.trl" /><!-- Help Caer Evermore defeat the Risen in the region. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\79.trl" /><!-- Help the Priory's excavation of the ruins. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\70.trl" /><!-- Help make Stromkarl Heights safe for travelers. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\71.trl" /><!-- Help the alliance of the Vigil and Priory. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\72.trl" /><!-- Help Goldenlight Hallow with their experiments. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\80.trl" /><!-- Help Fionnghuala Scratch prepare their defenses. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\76.trl" /><!-- Disrupt dredge mining operations for Order of Whispers operatives. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\77.trl" /><!-- Scatter the unusually aggressive grawl. -->
-<trail type="bounds.task.trail" mapId="29" trailData="trails\75.trl" /><!-- Partake in the moot. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\73.trl" /><!-- Help Ichtaca. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\74.trl" /><!-- Help the endangered quaggans. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\78.trl" /><!-- Help Caer Evermore defeat the Risen in the region. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\79.trl" /><!-- Help the Priory's excavation of the ruins. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\70.trl" /><!-- Help make Stromkarl Heights safe for travelers. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\71.trl" /><!-- Help the alliance of the Vigil and Priory. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\72.trl" /><!-- Help Goldenlight Hallow with their experiments. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\80.trl" /><!-- Help Fionnghuala Scratch prepare their defenses. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\76.trl" /><!-- Disrupt dredge mining operations for Order of Whispers operatives. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\77.trl" /><!-- Scatter the unusually aggressive grawl. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="29" trailData="trails\75.trl" /><!-- Partake in the moot. -->
 </POIs></OverlayData>

@@ -1,13 +1,13 @@
 <OverlayData><POIs><!-- Dredgehaunt Cliffs -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\7.trl" /><!-- Help Explorer Brokkar sabotage dredge munitions. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\8.trl" /><!-- Help Magister Kathryn wound dredge forces. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\4.trl" /><!-- Help the Priory thwart dredge excavation in Dostoev Sky Peak. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\5.trl" /><!-- Help Arcanist Vance study dwarven relics at Granite Citadel. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\6.trl" /><!-- Help Magister Roslin infiltrate Black Earth Mine. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\9.trl" /><!-- Protect the Snow Leopard shrine from the Svanir. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\10.trl" /><!-- Defend Travelen's Steading against Svanir attacks. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\11.trl" /><!-- Help the grawl stave off Svanir attacks. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\2.trl" /><!-- Assist the skritt of Ratatosk. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\1.trl" /><!-- Assist Daphne in halting the encroaching corruption. -->
-<trail type="bounds.task.trail" mapId="26" trailData="trails\3.trl" /><!-- Help Antal the Patient impress the skritt in Kolkorensburg. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\7.trl" /><!-- Help Explorer Brokkar sabotage dredge munitions. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\8.trl" /><!-- Help Magister Kathryn wound dredge forces. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\4.trl" /><!-- Help the Priory thwart dredge excavation in Dostoev Sky Peak. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\5.trl" /><!-- Help Arcanist Vance study dwarven relics at Granite Citadel. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\6.trl" /><!-- Help Magister Roslin infiltrate Black Earth Mine. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\9.trl" /><!-- Protect the Snow Leopard shrine from the Svanir. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\10.trl" /><!-- Defend Travelen's Steading against Svanir attacks. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\11.trl" /><!-- Help the grawl stave off Svanir attacks. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\2.trl" /><!-- Assist the skritt of Ratatosk. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\1.trl" /><!-- Assist Daphne in halting the encroaching corruption. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="26" trailData="trails\3.trl" /><!-- Help Antal the Patient impress the skritt in Kolkorensburg. -->
 </POIs></OverlayData>

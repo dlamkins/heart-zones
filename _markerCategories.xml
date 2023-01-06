@@ -1,9 +1,7 @@
 <OverlayData>
-	<MarkerCategory name="bounds" DisplayName="Bounds" ingamevisibility="0">
-		<MarkerCategory name="task" DisplayName="Hearts">
-			<MarkerCategory name="trail" DisplayName="Heart Boundaries" tint="#1DBBF5">
-				
-			</MarkerCategory>
+    <MarkerCategory name="exploration" DisplayName="Exploration">
+        <MarkerCategory name="mapcomp" DisplayName="Map Completion">
+			<MarkerCategory name="heartbounds" DisplayName="Heart Boundaries" texture="Data/Icons/boundary.png" ingamevisibility="0" fadeNear="3000" fadeFar="3500" trailscale="3" isWall="1" animSpeed="0" color="eaad3c" alpha="0.7"/>
 		</MarkerCategory>
 	</MarkerCategory>
 </OverlayData>

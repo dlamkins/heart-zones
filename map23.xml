@@ -1,16 +1,15 @@
 <OverlayData><POIs><!-- Kessex Hills -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\254.trl" /><!-- Assist Overlake Haven with their ettin nuisance. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\251.trl" /><!-- Help the fishers of Triskell Quay. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\250.trl" /><!-- Aid the wardens of Shadowheart. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\246.trl" /><!-- Help Waldo Flood take revenge on local bandits. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\247.trl" /><!-- Help Lionguard Micah keep the Black Haven area safe for travelers. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\258.trl" /><!-- Assist Dianna by undermining bandit salvage operations. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\256.trl" /><!-- Help Sergeant Rane. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\257.trl" /><!-- Aid Fort Salma. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\259.trl" /><!-- Assist Sangdo Swiftwing. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\248.trl" /><!-- Help Engineer Gilli. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\249.trl" /><!-- Help Guard Barnaby. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\252.trl" /><!-- Help Matlal collect truffles for her starving tribe. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\253.trl" /><!-- Help Doolsileep protect Moogooloo Village. -->
-<trail type="bounds.task.trail" mapId="23" trailData="trails\255.trl" /><!-- Help Seraph Soldier Tripp. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\254.trl" /><!-- Assist Overlake Haven with their ettin nuisance. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\251.trl" /><!-- Help the fishers of Triskell Quay. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\250.trl" /><!-- Aid the wardens of Shadowheart. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\246.trl" /><!-- Help Waldo Flood take revenge on local bandits. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\247.trl" /><!-- Help Lionguard Micah keep the Black Haven area safe for travelers. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\258.trl" /><!-- Assist Dianna by undermining bandit salvage operations. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\256.trl" /><!-- Help Sergeant Rane. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\257.trl" /><!-- Aid Fort Salma. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\259.trl" /><!-- Assist Sangdo Swiftwing. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\249.trl" /><!-- Help Guard Barnaby. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\252.trl" /><!-- Help Matlal collect truffles for her starving tribe. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\253.trl" /><!-- Help Doolsileep protect Moogooloo Village. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="23" trailData="trails\255.trl" /><!-- Help Seraph Soldier Tripp. -->
 </POIs></OverlayData>
