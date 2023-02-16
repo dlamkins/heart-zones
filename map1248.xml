@@ -1,12 +1,10 @@
 <OverlayData><POIs><!-- Domain of Vabbi -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\395.trl" /><!-- Be the life of the party. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\401.trl" /><!-- Assist the Lyssan Fools acting troupe. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\408.trl" /><!-- Help train the newly Awakened. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\397.trl" /><!-- Help the living and the dead at the Necropolis. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\409.trl" /><!-- Help the students of Vehtendi Academy. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\388.trl" /><!-- Aid the Awakened in the Vehjin Mines. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\388.trl" /><!-- Aid the Awakened in the Vehjin Mines. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\389.trl" /><!-- Help the royals of Vehjin Palace. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\389.trl" /><!-- Help the royals of Vehjin Palace. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\389.trl" /><!-- Help the royals of Vehjin Palace. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1248" trailData="trails\405.trl" /><!-- Disrupt the Forged occupying the Foundry. -->
 </POIs></OverlayData>
