@@ -1,7 +1,7 @@
 <OverlayData>
     <MarkerCategory name="exploration" DisplayName="Exploration">
         <MarkerCategory name="mapcomp" DisplayName="Map Completion">
-			<MarkerCategory name="heartbounds" DisplayName="Heart Boundaries" texture="Data/Icons/boundary.png" ingamevisibility="1" fadeNear="3000" fadeFar="3500" isWall="1" color="eaad3c"/>
+			<MarkerCategory name="heartbounds" DisplayName="Heart Boundaries" texture="icons/boundary.png" ingamevisibility="1" fadeNear="3000" fadeFar="3500" isWall="1" color="eaad3c"/>
 		</MarkerCategory>
 	</MarkerCategory>
 </OverlayData>
