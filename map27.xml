@@ -1,17 +1,17 @@
 <OverlayData><POIs><!-- Lornar's Pass -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\52.trl" /><!-- Help Aurelio keep roads to the Priory safe from grawl. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\45.trl" /><!-- Help Herder Lyot maintain her dolyak ranch. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\44.trl" /><!-- Help Hunter Neida near Vanjir's Stead. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\41.trl" /><!-- Help Researcher Bramm with his research equipment. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\39.trl" /><!-- Help Queldip pillage pirates. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\40.trl" /><!-- Help Duidda hassle pirates. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\41.trl" /><!-- Help Researcher Bramm with his research equipment. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\42.trl" /><!-- Help Explorer Leandra find relics in Molitage Digs. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\43.trl" /><!-- Help Arcanist Kruppa with destroyers near Pinion Pass. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\44.trl" /><!-- Help Hunter Neida near Vanjir's Stead. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\45.trl" /><!-- Help Herder Lyot maintain her dolyak ranch. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\46.trl" /><!-- Make sure the mining camp maintains productivity. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\47.trl" /><!-- Help Kelgg with the mine's troubles. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\48.trl" /><!-- Help Hune manage the lodge. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\42.trl" /><!-- Help Explorer Leandra find relics in Molitage Digs. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\43.trl" /><!-- Help Arcanist Kruppa with destroyers near Pinion Pass. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\51.trl" /><!-- Help Researcher Suki examine imps near Rocklair. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\49.trl" /><!-- Help the Priory stop the dredge encroachment. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\50.trl" /><!-- Investigate and contain the expanding steam creature forces. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\51.trl" /><!-- Help Researcher Suki examine imps near Rocklair. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\52.trl" /><!-- Help Aurelio keep roads to the Priory safe from grawl. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="27" trailData="trails\53.trl" /><!-- Help Agent Kaukiri trick the dredge into fighting steam creatures. -->
 </POIs></OverlayData>

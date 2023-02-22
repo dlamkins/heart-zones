@@ -1,6 +1,6 @@
 <OverlayData><POIs><!-- Desert Highlands -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1211" trailData="trails\390.trl" /><!-- Help out around Highjump Ranch. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1211" trailData="trails\398.trl" /><!-- Help the Makali community. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1211" trailData="trails\416.trl" /><!-- Pitch in around Lommuld Kraal. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1211" trailData="trails\407.trl" /><!-- Help the Pricklepatch Hollow choya, or don't. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1211" trailData="trails\416.trl" /><!-- Pitch in around Lommuld Kraal. -->
 </POIs></OverlayData>

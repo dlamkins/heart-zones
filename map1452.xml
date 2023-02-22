@@ -1,0 +1,5 @@
+<OverlayData><POIs><!-- The Echovald Wilds -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1452" trailData="trails\443.trl" /><!-- Infiltrate and sabotage operations in the Jade Brotherhood headquarters. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1452" trailData="trails\444.trl" /><!-- Help out around Mori Village to gain the trust of the tengu who live there. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1452" trailData="trails\445.trl" /><!-- Disrupt the Speakers' operations in their headquarters. -->
+</POIs></OverlayData>
