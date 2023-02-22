@@ -1,8 +1,8 @@
 <OverlayData><POIs><!-- Elon Riverlands -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\393.trl" /><!-- Help Ebele prepare the way north for defectors. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\410.trl" /><!-- Help Assistant Foreman Kofi keep the people of the Gladefields safe. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\404.trl" /><!-- Help Follower Dawnwynn defeat Branded Forgotten at Augury Rock. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\412.trl" /><!-- Help Follower Xunn collect Forgotten Glyphs for decoding. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\394.trl" /><!-- Help Adisa collect Slivers of Vlast from veteran Branded. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\400.trl" /><!-- Use a skimmer to help with training around the ranch. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\404.trl" /><!-- Help Follower Dawnwynn defeat Branded Forgotten at Augury Rock. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\410.trl" /><!-- Help Assistant Foreman Kofi keep the people of the Gladefields safe. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1228" trailData="trails\412.trl" /><!-- Help Follower Xunn collect Forgotten Glyphs for decoding. -->
 </POIs></OverlayData>

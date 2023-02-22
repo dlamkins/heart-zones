@@ -1,4 +1,4 @@
 <OverlayData><POIs><!-- Domain of Istan -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1263" trailData="trails\422.trl" /><!-- Maintain peace and order in the corsair flotilla. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="1263" trailData="trails\421.trl" /><!-- Aid the oppressed of Champion's Dawn on behalf of the Sunspears. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1263" trailData="trails\422.trl" /><!-- Maintain peace and order in the corsair flotilla. -->
 </POIs></OverlayData>

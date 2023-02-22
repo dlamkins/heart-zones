@@ -1,13 +1,13 @@
 <OverlayData><POIs><!-- Mount Maelstrom -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\278.trl" /><!-- Help the Order of Whispers sabotage Inquest weapon tests on the hylek village of Tzanopl Grounds. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\279.trl" /><!-- Aid Tactician Blazefur in preparing Firebreak Fort for the Risen offensive. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\280.trl" /><!-- Help Carmel cleanse the Inquest pollution. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\281.trl" /><!-- Help Ambr's krewe defend the lab. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\282.trl" /><!-- Help Pixtor test his weapons on the Risen in Murkvale. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\280.trl" /><!-- Help Carmel cleanse the Inquest pollution. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\286.trl" /><!-- Help Jenrys protect nature from the Inquest. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\288.trl" /><!-- Help the Order of Whispers instigate a fight between krait and Risen. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\283.trl" /><!-- Help Zara secure and supply Gallant's Folly. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\284.trl" /><!-- Help Pact soldiers secure a path to Orr. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\285.trl" /><!-- Assist the skritt with their fortifications. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\278.trl" /><!-- Help the Order of Whispers sabotage Inquest weapon tests on the hylek village of Tzanopl Grounds. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\283.trl" /><!-- Help Zara secure and supply Gallant's Folly. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\279.trl" /><!-- Aid Tactician Blazefur in preparing Firebreak Fort for the Risen offensive. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\286.trl" /><!-- Help Jenrys protect nature from the Inquest. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\287.trl" /><!-- Help the Priory members excavate Rata Pten. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="39" trailData="trails\288.trl" /><!-- Help the Order of Whispers instigate a fight between krait and Risen. -->
 </POIs></OverlayData>

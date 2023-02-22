@@ -1,0 +1,5 @@
+<OverlayData><POIs><!-- Jahai Bluffs -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1301" trailData="trails\434.trl" /><!-- Start dialogs between the Elonian factions -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1301" trailData="trails\435.trl" /><!-- Prepare the Pact camp for battle. -->
+<trail type="exploration.mapcomp.heartbounds" mapId="1301" trailData="trails\436.trl" /><!-- Help the people of Yatendi village. -->
+</POIs></OverlayData>
