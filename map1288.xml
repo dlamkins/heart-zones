@@ -1,7 +1,7 @@
 <OverlayData><POIs><!-- Domain of Kourna -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1288" trailData="trails\428.trl" /><!-- Secure the supply line from the Corsair Landing. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1288" trailData="trails\429.trl" /><!-- Respond to the food shortage in Arkjok Farmlands. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1288" trailData="trails\430.trl" /><!-- Help distribute incoming supplies to the allied encampment. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1288" trailData="trails\431.trl" /><!-- Help stabilize the front line. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1288" trailData="trails\433.trl" /><!-- Help the critically endangered heket tribe. -->
+<trail type="heartbounds" mapId="1288" trailData="trails\428.trl" /><!-- Secure the supply line from the Corsair Landing. -->
+<trail type="heartbounds" mapId="1288" trailData="trails\429.trl" /><!-- Respond to the food shortage in Arkjok Farmlands. -->
+<trail type="heartbounds" mapId="1288" trailData="trails\430.trl" /><!-- Help distribute incoming supplies to the allied encampment. -->
+<trail type="heartbounds" mapId="1288" trailData="trails\431.trl" /><!-- Help stabilize the front line. -->
+<trail type="heartbounds" mapId="1288" trailData="trails\433.trl" /><!-- Help the critically endangered heket tribe. -->
 </POIs></OverlayData>

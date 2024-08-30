@@ -1,6 +1,6 @@
 <OverlayData><POIs><!-- Sandswept Isles -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1271" trailData="trails\424.trl" /><!-- Help the Olmakhan slow the Inquest's expansion. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1271" trailData="trails\425.trl" /><!-- The Hunting Grounds -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1271" trailData="trails\426.trl" /><!-- Atholma Farms -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1271" trailData="trails\427.trl" /><!-- Disrupt the Magnetics Lab. -->
+<trail type="heartbounds" mapId="1271" trailData="trails\424.trl" /><!-- Help the Olmakhan slow the Inquest's expansion. -->
+<trail type="heartbounds" mapId="1271" trailData="trails\425.trl" /><!-- The Hunting Grounds -->
+<trail type="heartbounds" mapId="1271" trailData="trails\426.trl" /><!-- Atholma Farms -->
+<trail type="heartbounds" mapId="1271" trailData="trails\427.trl" /><!-- Disrupt the Magnetics Lab. -->
 </POIs></OverlayData>

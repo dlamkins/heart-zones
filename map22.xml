@@ -1,14 +1,14 @@
 <OverlayData><POIs><!-- Fireheart Rise -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\128.trl" /><!-- Assist with maintenance at Tuyere Command Post. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\129.trl" /><!-- Assist Engineer Verutum. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\130.trl" /><!-- Clean up the Flame Legion magic. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\132.trl" /><!-- Stop the Flame Legion from summoning embers. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\133.trl" /><!-- Help the Nrocroc tribe survive so close to Flame lands. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\134.trl" /><!-- Help the Tarstar tribe survive so close to Flame lands. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\135.trl" /><!-- Help the Wupwup tribe survive so close to Flame lands. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\136.trl" /><!-- Assist the Ash Legion soldiers of Shadow Cleft. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\137.trl" /><!-- Aid kodan refugees fleeing toward Haymal Gore. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\138.trl" /><!-- Help Pact researchers with their experimental weapons. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\140.trl" /><!-- Help the Ash Legion disrupt the Flame Legion. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="22" trailData="trails\141.trl" /><!-- Help the Ash Legion strike at the heart of the Flame Legion. -->
+<trail type="heartbounds" mapId="22" trailData="trails\128.trl" /><!-- Assist with maintenance at Tuyere Command Post. -->
+<trail type="heartbounds" mapId="22" trailData="trails\129.trl" /><!-- Assist Engineer Verutum. -->
+<trail type="heartbounds" mapId="22" trailData="trails\130.trl" /><!-- Clean up the Flame Legion magic. -->
+<trail type="heartbounds" mapId="22" trailData="trails\132.trl" /><!-- Stop the Flame Legion from summoning embers. -->
+<trail type="heartbounds" mapId="22" trailData="trails\133.trl" /><!-- Help the Nrocroc tribe survive so close to Flame lands. -->
+<trail type="heartbounds" mapId="22" trailData="trails\134.trl" /><!-- Help the Tarstar tribe survive so close to Flame lands. -->
+<trail type="heartbounds" mapId="22" trailData="trails\135.trl" /><!-- Help the Wupwup tribe survive so close to Flame lands. -->
+<trail type="heartbounds" mapId="22" trailData="trails\136.trl" /><!-- Assist the Ash Legion soldiers of Shadow Cleft. -->
+<trail type="heartbounds" mapId="22" trailData="trails\137.trl" /><!-- Aid kodan refugees fleeing toward Haymal Gore. -->
+<trail type="heartbounds" mapId="22" trailData="trails\138.trl" /><!-- Help Pact researchers with their experimental weapons. -->
+<trail type="heartbounds" mapId="22" trailData="trails\140.trl" /><!-- Help the Ash Legion disrupt the Flame Legion. -->
+<trail type="heartbounds" mapId="22" trailData="trails\141.trl" /><!-- Help the Ash Legion strike at the heart of the Flame Legion. -->
 </POIs></OverlayData>

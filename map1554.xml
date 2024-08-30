@@ -1,0 +1,5 @@
+<OverlayData><POIs><!-- Janthir Syntri -->
+<trail type="heartbounds" mapId="1554" trailData="trails\451.trl" ingamevisibility="1"/><!-- Support the kodan as they maintain their camp. -->
+<trail type="heartbounds" mapId="1554" trailData="trails\452.trl" ingamevisibility="1"/><!-- Assist the kodan in researching the titan blight. -->
+<trail type="heartbounds" mapId="1554" trailData="trails\455.trl" ingamevisibility="1"/><!-- Help the kodan study and settle in the Janthir Syntri region. -->
+</POIs></OverlayData>

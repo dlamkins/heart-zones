@@ -1,18 +1,18 @@
 <OverlayData><POIs><!-- Brisban Wildlands -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\302.trl" /><!-- Help the grub farmers in Skrittsburgh Hillstead. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\303.trl" /><!-- Help the skritt defend Skrittsburgh East End. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\304.trl" /><!-- Help the skritt experimenting in Skrittsburgh Tunnels. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\305.trl" /><!-- Help Leigheara protect the Revered Terebinth. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\306.trl" /><!-- Thwart the Nightmare Court at Joy's End. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\307.trl" /><!-- Remove threats to Durmand Priory researchers in Toxal Bog. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\308.trl" /><!-- Assist Ulta Metamagicals with their asura gate research. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\309.trl" /><!-- Aethervolt researchers require temporary assistants. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\310.trl" /><!-- Keep the Inquest from endangering Mrot Boru. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\311.trl" /><!-- Help the Seraph fight Willem's bandits. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\312.trl" /><!-- Hinder Scotta's bandits. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\313.trl" /><!-- Help the cornered spies at Seraph Observers. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\314.trl" /><!-- Help the skritt challenge the bandits. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\315.trl" /><!-- Help Valiant Mathair secure Vandal's Claim. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\316.trl" /><!-- Help Peacemaker Klodi disperse the alliance of criminals. -->
+<trail type="heartbounds" mapId="54" trailData="trails\302.trl" /><!-- Help the grub farmers in Skrittsburgh Hillstead. -->
+<trail type="heartbounds" mapId="54" trailData="trails\303.trl" /><!-- Help the skritt defend Skrittsburgh East End. -->
+<trail type="heartbounds" mapId="54" trailData="trails\304.trl" /><!-- Help the skritt experimenting in Skrittsburgh Tunnels. -->
+<trail type="heartbounds" mapId="54" trailData="trails\305.trl" /><!-- Help Leigheara protect the Revered Terebinth. -->
+<trail type="heartbounds" mapId="54" trailData="trails\306.trl" /><!-- Thwart the Nightmare Court at Joy's End. -->
+<trail type="heartbounds" mapId="54" trailData="trails\307.trl" /><!-- Remove threats to Durmand Priory researchers in Toxal Bog. -->
+<trail type="heartbounds" mapId="54" trailData="trails\308.trl" /><!-- Assist Ulta Metamagicals with their asura gate research. -->
+<trail type="heartbounds" mapId="54" trailData="trails\309.trl" /><!-- Aethervolt researchers require temporary assistants. -->
+<trail type="heartbounds" mapId="54" trailData="trails\310.trl" /><!-- Keep the Inquest from endangering Mrot Boru. -->
+<trail type="heartbounds" mapId="54" trailData="trails\311.trl" /><!-- Help the Seraph fight Willem's bandits. -->
+<trail type="heartbounds" mapId="54" trailData="trails\312.trl" /><!-- Hinder Scotta's bandits. -->
+<trail type="heartbounds" mapId="54" trailData="trails\313.trl" /><!-- Help the cornered spies at Seraph Observers. -->
+<trail type="heartbounds" mapId="54" trailData="trails\314.trl" /><!-- Help the skritt challenge the bandits. -->
+<trail type="heartbounds" mapId="54" trailData="trails\315.trl" /><!-- Help Valiant Mathair secure Vandal's Claim. -->
+<trail type="heartbounds" mapId="54" trailData="trails\316.trl" /><!-- Help Peacemaker Klodi disperse the alliance of criminals. -->
 <trail type="exploration.mapcomp.heartbounds" mapId="54" trailData="trails\318.trl" /><!-- Infiltrate and disrupt Seanan's bandits. -->
 </POIs></OverlayData>

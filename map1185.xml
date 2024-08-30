@@ -1,8 +1,8 @@
 <OverlayData><POIs><!-- Lake Doric -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\372.trl" /><!-- Help Cin Fursarai around the Lakeside Bazaar. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\373.trl" /><!-- Aid the front-line defense of Doric's Landing -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\374.trl" /><!-- Help Noran around the Harvest Cascades. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\375.trl" /><!-- Restore normalcy in New Loamhurst. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\376.trl" /><!-- Help restore life to Saidra's Haven. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1185" trailData="trails\377.trl" /><!-- Disrupt White Mantle forces occupying Fort Evennia. -->
+<trail type="heartbounds" mapId="1185" trailData="trails\372.trl" /><!-- Help Cin Fursarai around the Lakeside Bazaar. -->
+<trail type="heartbounds" mapId="1185" trailData="trails\373.trl" /><!-- Aid the front-line defense of Doric's Landing -->
+<trail type="heartbounds" mapId="1185" trailData="trails\374.trl" /><!-- Help Noran around the Harvest Cascades. -->
+<trail type="heartbounds" mapId="1185" trailData="trails\375.trl" /><!-- Restore normalcy in New Loamhurst. -->
+<trail type="heartbounds" mapId="1185" trailData="trails\376.trl" /><!-- Help restore life to Saidra's Haven. -->
+<trail type="heartbounds" mapId="1185" trailData="trails\377.trl" /><!-- Disrupt White Mantle forces occupying Fort Evennia. -->
 </POIs></OverlayData>

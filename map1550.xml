@@ -1,0 +1,5 @@
+<OverlayData><POIs><!-- Lowland Shore -->
+<trail type="heartbounds" mapId="1550" trailData="trails\450.trl" ingamevisibility="1"/><!-- Assist the Kodan Inhabitants of Harvest Den -->
+<trail type="heartbounds" mapId="1550" trailData="trails\453.trl" ingamevisibility="1"/><!-- Assist the Kodan in Their Coursing Upland Activities -->
+<trail type="heartbounds" mapId="1550" trailData="trails\454.trl" ingamevisibility="1"/><!-- Assist the Kodan around Autumn's Vale -->
+</POIs></OverlayData>

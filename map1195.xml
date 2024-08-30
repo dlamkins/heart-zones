@@ -1,6 +1,6 @@
 <OverlayData><POIs><!-- Draconis Mons -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1195" trailData="trails\378.trl" /><!-- Assist the ancient golems. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1195" trailData="trails\379.trl" /><!-- Help the Prisoners -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1195" trailData="trails\380.trl" /><!-- Infiltrate the Inquest. -->
-<trail type="exploration.mapcomp.heartbounds" mapId="1195" trailData="trails\381.trl" /><!-- Help the scouting party. -->
+<trail type="heartbounds" mapId="1195" trailData="trails\378.trl" /><!-- Assist the ancient golems. -->
+<trail type="heartbounds" mapId="1195" trailData="trails\379.trl" /><!-- Help the Prisoners -->
+<trail type="heartbounds" mapId="1195" trailData="trails\380.trl" /><!-- Infiltrate the Inquest. -->
+<trail type="heartbounds" mapId="1195" trailData="trails\381.trl" /><!-- Help the scouting party. -->
 </POIs></OverlayData>
