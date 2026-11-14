@@ -1,4 +1,7 @@
 <OverlayData><POIs><!-- Plains of Ashford -->
+<trail type="heartbounds" mapId="19" trailData="trails\96.trl" /><!-- Help Bryllana Deepmind thin out ghosts. -->
+<trail type="heartbounds" mapId="19" trailData="trails\97.trl" /><!-- Help Kyra Sharptracker thin out ghosts. -->
+<trail type="heartbounds" mapId="19" trailData="trails\98.trl" /><!-- Help Crucibis Forgeweld run the armory. -->
 <trail type="heartbounds" mapId="19" trailData="trails\100.trl" /><!-- Help Strum Bassclash secure Lake Feritas. -->
 <trail type="heartbounds" mapId="19" trailData="trails\101.trl" /><!-- Help Scar Stripeclaw organize the wrecking yard. -->
 <trail type="heartbounds" mapId="19" trailData="trails\102.trl" /><!-- Help Latera Painstorm fight the Flame Legion. -->
@@ -14,7 +17,4 @@
 <trail type="heartbounds" mapId="19" trailData="trails\112.trl" /><!-- Help Ghyrtratus Fiendmauler retake Ascalon City. -->
 <trail type="heartbounds" mapId="19" trailData="trails\347.trl" /><!-- Rid the training area of pests. -->
 <trail type="heartbounds" mapId="19" trailData="trails\348.trl" /><!-- Help Tolona Ironrustler with her farm. -->
-<trail type="heartbounds" mapId="19" trailData="trails\96.trl" /><!-- Help Bryllana Deepmind thin out ghosts. -->
-<trail type="heartbounds" mapId="19" trailData="trails\97.trl" /><!-- Help Kyra Sharptracker thin out ghosts. -->
-<trail type="heartbounds" mapId="19" trailData="trails\98.trl" /><!-- Help Crucibis Forgeweld run the armory. -->
 </POIs></OverlayData>

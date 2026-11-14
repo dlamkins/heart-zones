@@ -1,0 +1,13 @@
+{
+  "continents": [1],
+  "category": "heartbounds",
+
+  "excludeTasks": {},
+
+  "mapAttributes": {
+    "1550": { "ingamevisibility": "1" },
+    "1554": { "ingamevisibility": "1" }
+  },
+
+  "taskAttributes": {}
+}
